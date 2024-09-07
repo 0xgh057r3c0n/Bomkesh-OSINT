@@ -1,4 +1,3 @@
-```markdown
 # Social Media Profile and Email Lookup Tool
 
 ## Overview
