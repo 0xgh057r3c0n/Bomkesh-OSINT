@@ -107,7 +107,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the GNU Public License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-- **G4UR4V007**
+- **0xgh057r3c0n**
 - Inspired by: Satyaneshi Bomkesh Bakshi
 
 ## Disclaimer
